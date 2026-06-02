@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Kaggle data
+data/
+
+# Models
+models/
+
+# macOS
+.DS_Store
